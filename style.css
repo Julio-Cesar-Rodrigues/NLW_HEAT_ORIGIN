@@ -73,9 +73,9 @@ body {
 }
 
 main {
-  background: url(/images/background.svg);
-  width: 375px;
-  height: 800px;
+  background: url(/images/background.svg) no-repeat center/cover;
+  width: 95vw;
+  height: 95vh;
   border: 1px solid #fff;
   border-radius: 10px;
   transition: 1s;
